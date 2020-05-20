@@ -4,17 +4,12 @@
     margin: 0;
 }
 
+/* Main background colour */
 body {
     background-color: #d9dcd6;
 }
 
-header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
+/* Logo styling */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -22,6 +17,14 @@ header h1 {
 
 .seo {
     color: #d9dcd6;
+}
+
+/* Nav bar styling */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
 }
 
 nav {
@@ -46,10 +49,12 @@ a {
     text-decoration: none;
 }
 
+/* Font styling for all paragraphs */
 p {
     font-size: 16px;
 }
 
+/* Hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* Main section styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +99,7 @@ p {
     margin-left: 25px;
 }
 
+/* Side bar styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +127,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer styling */
 footer {
     padding: 30px;
     clear: both;
