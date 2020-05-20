@@ -1,6 +1,11 @@
 # HW-Code-Refactor
 
-Refactored an existing code to meet the acceptance criteria:
+## Description
+
+This website is the main page for Horiseon where the code was refactored to meet the acceptance criteria.
+
+## Acceptance Criteria
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
